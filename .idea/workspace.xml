@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -39,14 +42,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/Jokul/Documents/projects/idea/springboot-javafx-support",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDK 位置",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propDebugger",
+    "settings.editor.selected.configurable": "preferences.general",
+    "spring.configuration.checksum": "520c50224b3731205a7d812a081c110a",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1686735413370</updated>
       <workItem from="1686819712891" duration="523000" />
+      <workItem from="1686907578297" duration="451000" />
+      <workItem from="1686908036363" duration="27000" />
     </task>
     <servers />
   </component>
